@@ -1,4 +1,3 @@
-// main html file
 
 <!DOCTYPE html>
 
